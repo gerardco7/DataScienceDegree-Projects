@@ -1,0 +1,2 @@
+# Jutge problems 
+Projects done for the GCED, UPC course [Algorithms and Programming I](https://www.fib.upc.edu/ca/estudis/graus/grau-en-ciencia-i-enginyeria-de-dades/pla-destudis/assignatures/AP1-GCED). [Jutge.org](https://jutge.org/) is an open educational online programming judge designed for students and instructors, featuring a repository of problems that is well organized by courses, topics, and difficulty.
