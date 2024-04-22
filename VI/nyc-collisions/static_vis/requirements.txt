@@ -1,0 +1,6 @@
+geopandas
+missingno
+numpy
+pandas
+shapely
+streamlit

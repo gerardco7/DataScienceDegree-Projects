@@ -1,0 +1,6 @@
+altair
+geopandas
+numpy
+pandas
+shapely
+streamlit
